@@ -13,6 +13,7 @@ My hobbies include gaming, camping, hiking, and fishing.
 ## Skills
 
 Languages - C/C++, Python, Java, Assembly, VHDL, Bash, Qiskit, NumPy
+
 Technical - Software Development, Quantum Computing, Embedded Systems, Data Analysis
 
 ## Get in Touch
